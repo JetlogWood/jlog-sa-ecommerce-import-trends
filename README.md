@@ -1,5 +1,7 @@
 # South Africa E-Commerce Import Trends — open dataset (v1.0, 2026)
 
+**DOI:** https://doi.org/10.5281/zenodo.21333712
+
 ## What this is
 
 Aggregated figures on South Africa's imports in the five consumer-goods categories
@@ -69,6 +71,7 @@ top_source_share_pct, source`.
 > JLog (JetLog (Pty) Ltd). "South Africa E-Commerce Import Trends", version 1.0, 2026.
 > Derived from SARS Trade Statistics. Licensed CC BY 4.0.
 > https://jlog.co.za/research/sa-ecommerce-import-trends/
+> doi:10.5281/zenodo.21333712 · https://doi.org/10.5281/zenodo.21333712
 
 ## Licence
 
