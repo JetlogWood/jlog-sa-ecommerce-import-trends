@@ -1,6 +1,8 @@
 # South Africa E-Commerce Import Trends — open dataset (v1.0, 2026)
 
-**DOI:** https://doi.org/10.5281/zenodo.21333712
+**Full report:** https://jlog.co.za/research/sa-ecommerce-import-trends/  
+**DOI:** https://doi.org/10.5281/zenodo.21333712  
+**Kaggle dataset:** https://www.kaggle.com/datasets/gerritdyman/south-africa-e-commerce-import-trends
 
 ## What this is
 
